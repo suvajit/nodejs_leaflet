@@ -1,2 +1,5 @@
+My Experiments with node+mongo+leaflet
+
+
+Sourced Basic example from :
 http://denelius.com/leaflet-node-mongodb/
-A simple map application with Node.js, Leaflet and MongoDB
